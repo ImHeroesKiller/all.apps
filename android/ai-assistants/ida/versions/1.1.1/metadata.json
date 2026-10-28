@@ -1,0 +1,16 @@
+{
+  "package": "id.arywibowo.ida",
+  "version_name": "1.1.1",
+  "version_code": 4,
+  "sha256": "486014cf722f93f2907050f3d4505835c754c91656245242f48ba8623a76bfae",
+  "certificate_sha256": "ade9a8282f0473ea1d709838f61ab1b87b302c78e6572ebc1654f94d1ebdd252",
+  "size_bytes": 21505157,
+  "source": "github_release",
+  "category": "ai-assistants",
+  "app": "ida",
+  "filename": "IDA-v1.1.1-UAT.apk",
+  "tag": "ida-v1.1.1",
+  "channel": "UAT",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-v1.1.1/IDA-v1.1.1-UAT.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-v1.1.1"
+}

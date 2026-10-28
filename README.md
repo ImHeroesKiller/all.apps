@@ -5,6 +5,7 @@ Katalog unduhan APK Android untuk seluruh proyek. Pilih kategori, aplikasi, lalu
 | Kategori | Aplikasi | Versi terbaru | Katalog versi |
 | --- | --- | --- | --- |
 | Keamanan & privasi | IDA Call Shield | [v2.1.0 UAT2 — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat2/IDA-Call-Shield-v2.1.0-UAT2.apk) | [19 versi](android/security/ida-call-shield/README.md) |
+| Asisten AI | IDA Gen3 | [v1.3.3 UAT — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/ida-v1.3.3/IDA-v1.3.3-UAT.apk) | [9 versi](android/ai-assistants/ida/README.md) |
 
 ## Susunan katalog
 
