@@ -1,0 +1,30 @@
+{
+  "package": "id.ary.callshield",
+  "version_name": "1.4.1-uat",
+  "version_code": 21,
+  "sha256": "cb0e4193f95acf9c11e6fb94ff895c29d58f2cd85d073bc0bfb94ed1d225778c",
+  "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+  "size_bytes": 3024422,
+  "source": "published_server",
+  "category": "security",
+  "app": "ida-call-shield",
+  "filename": "IDA-Call-Shield-v1.4.1-UAT.apk",
+  "tag": "ida-call-shield-v1.4.1-uat",
+  "channel": "UAT",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.4.1-uat/IDA-Call-Shield-v1.4.1-UAT.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.4.1-uat",
+  "known_build_variants": [
+    {
+      "sha256": "a87cb4c6d103ca3c87b2e1ccc1498903563690dfb837ca533beeeb8a8e2c74f7",
+      "certificate_sha256": "d273dfa138715c3fd2567ec2ebd3ca2bb849d88e380d0461e26cb854b2cba894",
+      "size_bytes": 3024422,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "cb0e4193f95acf9c11e6fb94ff895c29d58f2cd85d073bc0bfb94ed1d225778c",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 3024422,
+      "source": "published_server"
+    }
+  ]
+}

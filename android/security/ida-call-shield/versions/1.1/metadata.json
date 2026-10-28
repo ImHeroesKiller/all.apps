@@ -1,0 +1,24 @@
+{
+  "package": "id.ary.callshield",
+  "version_name": "1.1",
+  "version_code": 11,
+  "sha256": "5590d445a43a55efeddf518f0bcb8993db2a1c5752bb5991b35d26f4245da1a0",
+  "certificate_sha256": "12d0a74384d39d36f968d43cce88ae947e45950df896eefd0b6c1326a91bf15f",
+  "size_bytes": 2368581,
+  "source": "github_actions",
+  "category": "security",
+  "app": "ida-call-shield",
+  "filename": "IDA-Call-Shield-v1.1-DEBUG.apk",
+  "tag": "ida-call-shield-v1.1",
+  "channel": "DEBUG",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.1/IDA-Call-Shield-v1.1-DEBUG.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.1",
+  "known_build_variants": [
+    {
+      "sha256": "5590d445a43a55efeddf518f0bcb8993db2a1c5752bb5991b35d26f4245da1a0",
+      "certificate_sha256": "12d0a74384d39d36f968d43cce88ae947e45950df896eefd0b6c1326a91bf15f",
+      "size_bytes": 2368581,
+      "source": "github_actions"
+    }
+  ]
+}

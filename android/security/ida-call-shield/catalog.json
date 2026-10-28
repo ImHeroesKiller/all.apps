@@ -1,0 +1,748 @@
+{
+  "schema_version": 1,
+  "category": "security",
+  "name": "IDA Call Shield",
+  "package": "id.ary.callshield",
+  "latest_version": "2.1.0-uat2",
+  "latest_download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat2/IDA-Call-Shield-v2.1.0-UAT2.apk",
+  "versions": [
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.1",
+      "version_code": 11,
+      "sha256": "5590d445a43a55efeddf518f0bcb8993db2a1c5752bb5991b35d26f4245da1a0",
+      "certificate_sha256": "12d0a74384d39d36f968d43cce88ae947e45950df896eefd0b6c1326a91bf15f",
+      "size_bytes": 2368581,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.1-DEBUG.apk",
+      "tag": "ida-call-shield-v1.1",
+      "channel": "DEBUG",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.1/IDA-Call-Shield-v1.1-DEBUG.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.1",
+      "known_build_variants": [
+        {
+          "sha256": "5590d445a43a55efeddf518f0bcb8993db2a1c5752bb5991b35d26f4245da1a0",
+          "certificate_sha256": "12d0a74384d39d36f968d43cce88ae947e45950df896eefd0b6c1326a91bf15f",
+          "size_bytes": 2368581,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.2",
+      "version_code": 12,
+      "sha256": "3baf931c74f25a9310ed55916c8654a5a9de31f26478d1caf1598c2136b8a991",
+      "certificate_sha256": "b8ebe1f08ab2b8a30ec78a12a6b7af00d29e5e84da19b5c59d74a26173765455",
+      "size_bytes": 2393077,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.2-DEBUG.apk",
+      "tag": "ida-call-shield-v1.2",
+      "channel": "DEBUG",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2/IDA-Call-Shield-v1.2-DEBUG.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2",
+      "known_build_variants": [
+        {
+          "sha256": "3baf931c74f25a9310ed55916c8654a5a9de31f26478d1caf1598c2136b8a991",
+          "certificate_sha256": "b8ebe1f08ab2b8a30ec78a12a6b7af00d29e5e84da19b5c59d74a26173765455",
+          "size_bytes": 2393077,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "8b7073ee60e621c21ecbb74e029066574924c2ed5193710e844ffc1f305bda26",
+          "certificate_sha256": "0287d7798872aebcd4982b2c29de7a7d2d046e72882057bbd3a57fac6d9526f8",
+          "size_bytes": 2393077,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.2.1",
+      "version_code": 13,
+      "sha256": "95a22ac06bfe05e040841310c8e6c6601cb34db5b256918b3543900455ad5ac5",
+      "certificate_sha256": "5f71481c842aa8991f20f55e6340d799807fa340ce391e861b0beb4847495be1",
+      "size_bytes": 2409673,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.2.1-DEBUG.apk",
+      "tag": "ida-call-shield-v1.2.1",
+      "channel": "DEBUG",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2.1/IDA-Call-Shield-v1.2.1-DEBUG.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2.1",
+      "known_build_variants": [
+        {
+          "sha256": "02adbaaa1c70326cdda7e7342d17ea5fe164c965db85f879a80d5d1bc5c3e653",
+          "certificate_sha256": "696caaeaa7326b709ff072af9db9c4f06376061f52b3d704832fe3dc7de39701",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "02ae118e3088a6eb9254aac6db388813db69290dc284eecde69740292c462e67",
+          "certificate_sha256": "49233298b6dd11cee9714586e553cca6f284ba99ddc6d334cb8c4b9d670e535c",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "032c3af2064dadd0def7493e249c06748a749ff14ac2e76f000c09651a2a9fb8",
+          "certificate_sha256": "942b76fd3c85eca54f55161fab8202aff96125123441bed5b9626a01eaf677f4",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "035a09eaeea0a4da0d5031e3c6707cfa256025ffe915aa3e746b839d53d743a5",
+          "certificate_sha256": "a6f845fa6fd3930fe779d35b6f2f7207b7fe1653a9807c447268e2819b79c681",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "149a9669b77d47ae31c31219dc4fb2a120591bb6b808ec02391468eab9ef5075",
+          "certificate_sha256": "947924be0cf28240a73eceeb057d9ba3056b4abe570e44c3e97579759f6d8a4c",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "29c78816fb0124b41a2a908161cdec0a77b2286ee90d863bcf8274025a3c686f",
+          "certificate_sha256": "62809faeca184d0314ef8bfdff4ccef93b8c75bdee264a1c1254c6c8d81f36fc",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "2b2715b309cfee98330350faa9e5a18d6f9c31e5f7de82b9363ba948b6036fb2",
+          "certificate_sha256": "1b0b740693e3c712765e7da7a6c84b7ddbfbaccff3e594eb81d0bef879f0b312",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "3474f732eda0d6bf83510ca95e1fc710c482e549bb542d9bf6395e7f4a7ce86c",
+          "certificate_sha256": "cd8bf18a063ff79d731ae4d72f4a3a750efff3c2c7c87c35194b24fac3d74f69",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "396f19f59b3878d8d48bcb0002b450c9443d01c42ee6152881e1655024de4b7a",
+          "certificate_sha256": "f6dfe783cba263d8bec5c26d7a8b8ac38bb6103d1da5447668a7fa52139af086",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "40df1a096b27a47563c06809fe286375a4ddf4d105ac33177c9a2fbc25658411",
+          "certificate_sha256": "cc1af2f990cb793ee8b31ec95d0e3f34c0f910af14687a2e479c781600aa22e4",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "417f4816867de51d832dcee75d045a72b529bc11a058a9e4ade76c61c86552bc",
+          "certificate_sha256": "a742b052858715e42317345c53142100fffd741a1ebcbdc1f3970aceed22eed4",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "4617ddd26dc81f78561f8879d9fd6c8270f511d620f96ad115ebc19422e0bfa1",
+          "certificate_sha256": "f7cdf054357d9ec21a9566dd42b3e32279a9ca6b54822e543fca41625e8a8276",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "47aceeedf3b528422abbb19b99492f664d48163c5a08504b8d811792e0bc02c8",
+          "certificate_sha256": "eb4b8ea26a157b8c611eef0ce122db7c9477e4002298a55bb6a2e828befc0873",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "5426d6053edc22e36f4e70426832790fffe01bbfad3ed9ba8b629c6a571c568e",
+          "certificate_sha256": "b870b8d5a1937b1e3f572877c4b2be5696b834d4e1df8f826aa250b3e4e826cb",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "572ea945d3965ffee0468663cdb984d5e61751fde1488fdd5abdf11f6b3968f6",
+          "certificate_sha256": "45f0ea7de1c3616ad9f7eccb99c73db48efefef52405461ac1afff18a8ba63f6",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "5a7e20ff99d03afe292179cd915d0b6159230188bb1c28e1d49e91b939a1961d",
+          "certificate_sha256": "413b7da992d4ebedcbe5414ac35d02cd16bea85b78a19ecb50739688cd29f1ac",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "67ae2f8c20260b5d76930787d1400aff62de31e8281976c35d0f9fa3a906e576",
+          "certificate_sha256": "7cede95b0b2316033e3898cf64885d14ed3d9985b3c583023e21060651f91e06",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "6bad5e5cc5879854870ab4194ba2f30316d92323c8c0326ac8f5a738e434428c",
+          "certificate_sha256": "5b0606f05a8c9b4ac1b81effe16646134d24673f4c5bf8d20e7562ef2dbe2a44",
+          "size_bytes": 2400761,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "6f5eea616c1522fe1dd17af99da61552f6e57dec6957c6beb2cc6d4f601640d9",
+          "certificate_sha256": "d6416d2a3c6b55882903959b6bbaae3212480aea7c6c2a1f46e1ba7ddf31e981",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "73876fc9bdb95481ad506d63a3e972a7ecb43f466205d3c7eb68041fc484a03c",
+          "certificate_sha256": "a63f088266b7236c9a71d01df6a12e616639c8f61c6092ab0b5c360f43e738cd",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "772d1fbb3e75d4783ea295e6e7c3872a94969fdf5ae8dd4e3fba733ab9691444",
+          "certificate_sha256": "9988725bad21cbd25eb28dfbae1bcb9deefd5e90bd1e8cead6e6e09a0f228336",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "78295c8b7e30d354213be45a7f4b26c5e1412d731e8c2bd3b221ecd5c687bc71",
+          "certificate_sha256": "9835bd3537f4ee3685e0b3bdb01d7b7f6d22ab610fd9e4d51b7b07f0ade35ba6",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "78a4600060f895807e8ccdc619a94d42cd447ea80c6409fb143e7597110e22e0",
+          "certificate_sha256": "9f2e946b114324a55f814443e77376f12d9a30914cf431c6d155cff2f12c30ce",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "95a22ac06bfe05e040841310c8e6c6601cb34db5b256918b3543900455ad5ac5",
+          "certificate_sha256": "5f71481c842aa8991f20f55e6340d799807fa340ce391e861b0beb4847495be1",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "9d2077a77fba6278487b68520d3c0e696295268afae4e6503e511b12d2d1034c",
+          "certificate_sha256": "235b44baf3713ce3d98341f02377a3f0c29bb946f72cc1bee2dbc826dc7ed363",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "a2bb2e9ac8cdebd0e7595a5e6d49c87a0297585988ec33bacbee9bc8f3627e7a",
+          "certificate_sha256": "77608f823e83848aa5eb29773fcb4ba432fa65e769c9461ed496aba68ef46562",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "aeffd94d017d1aa3901670c0d7236f39cc9c35643e11678fcd8d915b5aac201e",
+          "certificate_sha256": "26fed36d22e662077990f84b7c9e2a743b469cdc2f60775ede5ec876c71b4da9",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "d23c6e2fbaae781dc794db11d47ea44fdcfadcefc2b5a2be7e8031d398808a9d",
+          "certificate_sha256": "d313fc044234e7dae7c64187c73155ce63c53cf157b75d71ec62079ded3ad611",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "d349317c04479c749ad250dcbb2913916cf47e2e57a2f6f4a3e27c1e2793d8e4",
+          "certificate_sha256": "840d569f18e44813c60c9bd7c9d3754d867fcf3a54e6189cc778e2048950585a",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "d50821ed0d351f7607438014949fdc2fb63198a9f8978ca8c70cadf0c2b81196",
+          "certificate_sha256": "68d4f8e9480f4fbcef93bdbf86de0c5c3cc15a96a73b91e0b245f6aa04ad4bfd",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "d62128e745f2cb610ce4abd151442c4a729daca38119abdc5ec690e1735d88d4",
+          "certificate_sha256": "fe5643539f14406f0cb3d82bc5c09bf9b0a14e087142d681d941f6ad01a5f346",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "d655f815d8ce1303f0f0a903d328f71271dddd5491ff7cad7b2e3190721f8238",
+          "certificate_sha256": "a0e5420060df55a722f48c7f28b3d0727f87fd16450e1a7473128e52a4e4a069",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "de735ff65970bc001e111e36512d1560dfb9e7fe4ae470e94314638e69124a2e",
+          "certificate_sha256": "a0714182f4d5b92deceb1dfb81e9ebc27bf2229bef3a2361af19f15227401fcd",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "ea15f359186d8cb2cef540badd2aba9985b5e70079a153fe43305092b2592687",
+          "certificate_sha256": "72078b246acf031447b75445754739c60bc4ec4f61fb4975ba5bfd61e69f1d63",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "f34bb2b75e8cca35d89c4b0ed6f1432b6107949d55940981e2bae5a2a82480f3",
+          "certificate_sha256": "5531425a2bb25eb3aa1bd1f8b0f37bdf7bc3dd1ddb10fba5b784623cca982225",
+          "size_bytes": 2409673,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "f4e3ecd4e6b11d7e63072c0c8ec6dc4eda50a5ec2b844b1774ab66a3181ac1d8",
+          "certificate_sha256": "efbfea2ae63e32b3af5d23da1879d0f362747645eefc35d81df50578a5ec16f4",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "fce7c90ca5cdb595864723c822d4ac42b471d9da07ca181ba3c19479ef0e581e",
+          "certificate_sha256": "ead3fae8d52ec34bad81f8d93bd93b65323433f379d85a572d712506ed7f83a2",
+          "size_bytes": 2397861,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.2.2-uat",
+      "version_code": 14,
+      "sha256": "5b118c58e9af9749db6a657b147674e8dd5884ef92142d0227ac6300d02f5dde",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 2409701,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.2.2-UAT.apk",
+      "tag": "ida-call-shield-v1.2.2-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2.2-uat/IDA-Call-Shield-v1.2.2-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2.2-uat",
+      "known_build_variants": [
+        {
+          "sha256": "5b118c58e9af9749db6a657b147674e8dd5884ef92142d0227ac6300d02f5dde",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 2409701,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.2.3-uat",
+      "version_code": 15,
+      "sha256": "dc4db2106c030ea31f9e4335ed4fd176b895a279cd4525d9e5a4b9ebeb60c0eb",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 2466526,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.2.3-UAT.apk",
+      "tag": "ida-call-shield-v1.2.3-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2.3-uat/IDA-Call-Shield-v1.2.3-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2.3-uat",
+      "known_build_variants": [
+        {
+          "sha256": "dc4db2106c030ea31f9e4335ed4fd176b895a279cd4525d9e5a4b9ebeb60c0eb",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 2466526,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.2.5-uat",
+      "version_code": 17,
+      "sha256": "3846e10f6e5bb5b667903847938fbd51df2a7d5b808f5437cf4d0ca993751bac",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 2427821,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.2.5-UAT.apk",
+      "tag": "ida-call-shield-v1.2.5-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2.5-uat/IDA-Call-Shield-v1.2.5-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2.5-uat",
+      "known_build_variants": [
+        {
+          "sha256": "3846e10f6e5bb5b667903847938fbd51df2a7d5b808f5437cf4d0ca993751bac",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 2427821,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.3.0-uat",
+      "version_code": 18,
+      "sha256": "cd2a810ee5570d45032416767ee5b00ab98857ae1f333db539155fc627c5e47c",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 2547637,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.3.0-UAT.apk",
+      "tag": "ida-call-shield-v1.3.0-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.3.0-uat/IDA-Call-Shield-v1.3.0-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.3.0-uat",
+      "known_build_variants": [
+        {
+          "sha256": "5a999b1300fa37bfd13066e684880a9f983d192f7a589a480e23c034daf88944",
+          "certificate_sha256": "76d1b3760d3cc077cab0204e3ceaec6a74637d2883b0d5e5abc0588cae91f485",
+          "size_bytes": 2453232,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "cd2a810ee5570d45032416767ee5b00ab98857ae1f333db539155fc627c5e47c",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 2547637,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.3.1-uat",
+      "version_code": 19,
+      "sha256": "e442bd74979216a46f18a51b323aee48a272011be63795d32e37e835c483e3bb",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 2598209,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.3.1-UAT.apk",
+      "tag": "ida-call-shield-v1.3.1-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.3.1-uat/IDA-Call-Shield-v1.3.1-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.3.1-uat",
+      "known_build_variants": [
+        {
+          "sha256": "e442bd74979216a46f18a51b323aee48a272011be63795d32e37e835c483e3bb",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 2598209,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.4.0-uat",
+      "version_code": 20,
+      "sha256": "01b0da786924142f96be8151f1714cf57a79d6c319e44785e9275952d8066626",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 3184212,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.4.0-UAT.apk",
+      "tag": "ida-call-shield-v1.4.0-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.4.0-uat/IDA-Call-Shield-v1.4.0-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.4.0-uat",
+      "known_build_variants": [
+        {
+          "sha256": "01b0da786924142f96be8151f1714cf57a79d6c319e44785e9275952d8066626",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 3184212,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.4.1-uat",
+      "version_code": 21,
+      "sha256": "cb0e4193f95acf9c11e6fb94ff895c29d58f2cd85d073bc0bfb94ed1d225778c",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 3024422,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.4.1-UAT.apk",
+      "tag": "ida-call-shield-v1.4.1-uat",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.4.1-uat/IDA-Call-Shield-v1.4.1-UAT.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.4.1-uat",
+      "known_build_variants": [
+        {
+          "sha256": "a87cb4c6d103ca3c87b2e1ccc1498903563690dfb837ca533beeeb8a8e2c74f7",
+          "certificate_sha256": "d273dfa138715c3fd2567ec2ebd3ca2bb849d88e380d0461e26cb854b2cba894",
+          "size_bytes": 3024422,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "cb0e4193f95acf9c11e6fb94ff895c29d58f2cd85d073bc0bfb94ed1d225778c",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 3024422,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "1.5.0-rc1",
+      "version_code": 22,
+      "sha256": "4ff4a2d99d910f9fc8a8a6ccede9a8a962e6c35b30f28f2120f6333a44f36a28",
+      "certificate_sha256": "946d6fec29dd3c8b1784bb35195b0424b56091dda8d4d23e48de77773d5061d5",
+      "size_bytes": 12252363,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v1.5.0-RC1.apk",
+      "tag": "ida-call-shield-v1.5.0-rc1",
+      "channel": "RC",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.5.0-rc1/IDA-Call-Shield-v1.5.0-RC1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.5.0-rc1",
+      "known_build_variants": [
+        {
+          "sha256": "4ff4a2d99d910f9fc8a8a6ccede9a8a962e6c35b30f28f2120f6333a44f36a28",
+          "certificate_sha256": "946d6fec29dd3c8b1784bb35195b0424b56091dda8d4d23e48de77773d5061d5",
+          "size_bytes": 12252363,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "efc1786ae1f8b91c7d38de610bb0fd1942ab0f7a1e980d5e2e91df1ddbfc68fd",
+          "certificate_sha256": "c2803e90a7dcb1fe731d10657c8473c35c0cc468fa8340e102cfc7dbbb0de0c0",
+          "size_bytes": 12250739,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "fb382a276cb6af8c2cb11056bfc417e84675cf368318c6c6878d785c2ffe6066",
+          "certificate_sha256": "e768d3c3449300de12b786a4c43d2166679a1078567429a13204dbd173af80bc",
+          "size_bytes": 12251351,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.0-uat1",
+      "version_code": 23,
+      "sha256": "de1b8e24c10ff20c1cdb90132b4292c4b290c18cd4a1e9d201a7c22c7c4662de",
+      "certificate_sha256": "66120dfe3cfcb0a19265d7761695f176a8a38eb227a739573284221c2a8c4cef",
+      "size_bytes": 31087172,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.0-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.0-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.0-uat1/IDA-Call-Shield-v2.0.0-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.0-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "882215e1e327e3d011868be51860849a117b23eb9a1917f1c6cbba9ae8fb7721",
+          "certificate_sha256": "5b1d3c6d872ac5bfcc883a99d528c7966edd6f28ddcc7c892434571bfac978d2",
+          "size_bytes": 31087172,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "de1b8e24c10ff20c1cdb90132b4292c4b290c18cd4a1e9d201a7c22c7c4662de",
+          "certificate_sha256": "66120dfe3cfcb0a19265d7761695f176a8a38eb227a739573284221c2a8c4cef",
+          "size_bytes": 31087172,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.1-uat1",
+      "version_code": 24,
+      "sha256": "9a5ac4c8ae0e167b3b9f3fe1737c573f15baf24727251a265ffef35e2dc060c4",
+      "certificate_sha256": "915712cffeed77220cfefda7efdefa8fdb5bf87766a8c0ef4374387fc98a738a",
+      "size_bytes": 31103556,
+      "source": "github_actions",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.1-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.1-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.1-uat1/IDA-Call-Shield-v2.0.1-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.1-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "9a5ac4c8ae0e167b3b9f3fe1737c573f15baf24727251a265ffef35e2dc060c4",
+          "certificate_sha256": "915712cffeed77220cfefda7efdefa8fdb5bf87766a8c0ef4374387fc98a738a",
+          "size_bytes": 31103556,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "a98d0d308c31f00bbb1b7fb461d4417f01918cb70492945605e2885a529f7855",
+          "certificate_sha256": "3452390c987b8a9f2416fa3598d8a30c745f6d1eebf7adf795c7ae21b47c24b2",
+          "size_bytes": 31103556,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.2-uat1",
+      "version_code": 25,
+      "sha256": "3d682663ea79d5d9edc94de82554c764070893aae972766ca1d539817d5ee0a6",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 31103556,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.2-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.2-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.2-uat1/IDA-Call-Shield-v2.0.2-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.2-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "27349382d8f50c7a9f644ca44d31b284338dfa67635bd21bc184875849fbbeae",
+          "certificate_sha256": "530a3ad5f5f642e219973e5457bc41667fcc2aea8652c06c6d59a2b42f7af4d8",
+          "size_bytes": 31103556,
+          "source": "github_actions"
+        },
+        {
+          "sha256": "3d682663ea79d5d9edc94de82554c764070893aae972766ca1d539817d5ee0a6",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 31103556,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.3-uat1",
+      "version_code": 26,
+      "sha256": "068e9f4586c181943b42e28fa815fce2ff6c34c744c1205f8e435baa88aba188",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 31488913,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.3-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.3-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.3-uat1/IDA-Call-Shield-v2.0.3-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.3-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "068e9f4586c181943b42e28fa815fce2ff6c34c744c1205f8e435baa88aba188",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 31488913,
+          "source": "published_server"
+        },
+        {
+          "sha256": "742816c6bcdb31e33a05af13ef06758ce71940e79b8333bb35fcaebf1b5a2736",
+          "certificate_sha256": "7395a459d049aed9f9feacb8386ecfc0c741198cde65015ee08ae448d07db973",
+          "size_bytes": 31119940,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.4-uat1",
+      "version_code": 27,
+      "sha256": "0652900d901c42dcac92961feed3d0e16bd0722918a454b9ff3ba67667c83596",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 31497433,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.4-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.4-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.4-uat1/IDA-Call-Shield-v2.0.4-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.4-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "0652900d901c42dcac92961feed3d0e16bd0722918a454b9ff3ba67667c83596",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 31497433,
+          "source": "published_server"
+        },
+        {
+          "sha256": "3bc97de08011d1b1d3fb3c273c715e70a9ed881a0a095681714398a77fac56c4",
+          "certificate_sha256": "aed66766dbde28ffb5d37aa98dac2d0b56842fa5fa6a43d24c5ec7b6ebdf3d27",
+          "size_bytes": 31119940,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.0.5-uat1",
+      "version_code": 28,
+      "sha256": "473c58cc553afc98a807cc77035c204621678610c21658361a12a26a075cf2f0",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 31561361,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.0.5-UAT1.apk",
+      "tag": "ida-call-shield-v2.0.5-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.0.5-uat1/IDA-Call-Shield-v2.0.5-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.0.5-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "473c58cc553afc98a807cc77035c204621678610c21658361a12a26a075cf2f0",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 31561361,
+          "source": "published_server"
+        },
+        {
+          "sha256": "eb317b2271889ab1de9cfa31de980abd0fba228a9b42fb81eefa324a137287a1",
+          "certificate_sha256": "c40785cd79b618d1e7e160bfe33555eabad6f8a59c0804a32c1a10134117bceb",
+          "size_bytes": 31152708,
+          "source": "github_actions"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.1.0-uat1",
+      "version_code": 29,
+      "sha256": "85f11703602e25c84d841382e8e3d2815f6af6ec4fddd06875c719eac8887e22",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 31201860,
+      "source": "published_server",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.1.0-UAT1.apk",
+      "tag": "ida-call-shield-v2.1.0-uat1",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat1/IDA-Call-Shield-v2.1.0-UAT1.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.1.0-uat1",
+      "known_build_variants": [
+        {
+          "sha256": "85f11703602e25c84d841382e8e3d2815f6af6ec4fddd06875c719eac8887e22",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 31201860,
+          "source": "published_server"
+        }
+      ]
+    },
+    {
+      "package": "id.ary.callshield",
+      "version_name": "2.1.0-uat2",
+      "version_code": 30,
+      "sha256": "719ef8421776067830b502813fc6ebf6b3c25892716ef594e97abe5200252692",
+      "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+      "size_bytes": 24237746,
+      "source": "github_release",
+      "category": "security",
+      "app": "ida-call-shield",
+      "filename": "IDA-Call-Shield-v2.1.0-UAT2.apk",
+      "tag": "ida-call-shield-v2.1.0-uat2",
+      "channel": "UAT",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat2/IDA-Call-Shield-v2.1.0-UAT2.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.1.0-uat2",
+      "known_build_variants": [
+        {
+          "sha256": "719ef8421776067830b502813fc6ebf6b3c25892716ef594e97abe5200252692",
+          "certificate_sha256": "a940cf0598f6adaf9b90102cd7fbf11b16656ebcade17e86f0715dc7cf8f1479",
+          "size_bytes": 24237746,
+          "source": "github_release"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "package": "id.ary.callshield",
+  "version_name": "1.2.1",
+  "version_code": 13,
+  "sha256": "95a22ac06bfe05e040841310c8e6c6601cb34db5b256918b3543900455ad5ac5",
+  "certificate_sha256": "5f71481c842aa8991f20f55e6340d799807fa340ce391e861b0beb4847495be1",
+  "size_bytes": 2409673,
+  "source": "github_actions",
+  "category": "security",
+  "app": "ida-call-shield",
+  "filename": "IDA-Call-Shield-v1.2.1-DEBUG.apk",
+  "tag": "ida-call-shield-v1.2.1",
+  "channel": "DEBUG",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v1.2.1/IDA-Call-Shield-v1.2.1-DEBUG.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v1.2.1",
+  "known_build_variants": [
+    {
+      "sha256": "02adbaaa1c70326cdda7e7342d17ea5fe164c965db85f879a80d5d1bc5c3e653",
+      "certificate_sha256": "696caaeaa7326b709ff072af9db9c4f06376061f52b3d704832fe3dc7de39701",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "02ae118e3088a6eb9254aac6db388813db69290dc284eecde69740292c462e67",
+      "certificate_sha256": "49233298b6dd11cee9714586e553cca6f284ba99ddc6d334cb8c4b9d670e535c",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "032c3af2064dadd0def7493e249c06748a749ff14ac2e76f000c09651a2a9fb8",
+      "certificate_sha256": "942b76fd3c85eca54f55161fab8202aff96125123441bed5b9626a01eaf677f4",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "035a09eaeea0a4da0d5031e3c6707cfa256025ffe915aa3e746b839d53d743a5",
+      "certificate_sha256": "a6f845fa6fd3930fe779d35b6f2f7207b7fe1653a9807c447268e2819b79c681",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "149a9669b77d47ae31c31219dc4fb2a120591bb6b808ec02391468eab9ef5075",
+      "certificate_sha256": "947924be0cf28240a73eceeb057d9ba3056b4abe570e44c3e97579759f6d8a4c",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "29c78816fb0124b41a2a908161cdec0a77b2286ee90d863bcf8274025a3c686f",
+      "certificate_sha256": "62809faeca184d0314ef8bfdff4ccef93b8c75bdee264a1c1254c6c8d81f36fc",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "2b2715b309cfee98330350faa9e5a18d6f9c31e5f7de82b9363ba948b6036fb2",
+      "certificate_sha256": "1b0b740693e3c712765e7da7a6c84b7ddbfbaccff3e594eb81d0bef879f0b312",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "3474f732eda0d6bf83510ca95e1fc710c482e549bb542d9bf6395e7f4a7ce86c",
+      "certificate_sha256": "cd8bf18a063ff79d731ae4d72f4a3a750efff3c2c7c87c35194b24fac3d74f69",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "396f19f59b3878d8d48bcb0002b450c9443d01c42ee6152881e1655024de4b7a",
+      "certificate_sha256": "f6dfe783cba263d8bec5c26d7a8b8ac38bb6103d1da5447668a7fa52139af086",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "40df1a096b27a47563c06809fe286375a4ddf4d105ac33177c9a2fbc25658411",
+      "certificate_sha256": "cc1af2f990cb793ee8b31ec95d0e3f34c0f910af14687a2e479c781600aa22e4",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "417f4816867de51d832dcee75d045a72b529bc11a058a9e4ade76c61c86552bc",
+      "certificate_sha256": "a742b052858715e42317345c53142100fffd741a1ebcbdc1f3970aceed22eed4",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "4617ddd26dc81f78561f8879d9fd6c8270f511d620f96ad115ebc19422e0bfa1",
+      "certificate_sha256": "f7cdf054357d9ec21a9566dd42b3e32279a9ca6b54822e543fca41625e8a8276",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "47aceeedf3b528422abbb19b99492f664d48163c5a08504b8d811792e0bc02c8",
+      "certificate_sha256": "eb4b8ea26a157b8c611eef0ce122db7c9477e4002298a55bb6a2e828befc0873",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "5426d6053edc22e36f4e70426832790fffe01bbfad3ed9ba8b629c6a571c568e",
+      "certificate_sha256": "b870b8d5a1937b1e3f572877c4b2be5696b834d4e1df8f826aa250b3e4e826cb",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "572ea945d3965ffee0468663cdb984d5e61751fde1488fdd5abdf11f6b3968f6",
+      "certificate_sha256": "45f0ea7de1c3616ad9f7eccb99c73db48efefef52405461ac1afff18a8ba63f6",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "5a7e20ff99d03afe292179cd915d0b6159230188bb1c28e1d49e91b939a1961d",
+      "certificate_sha256": "413b7da992d4ebedcbe5414ac35d02cd16bea85b78a19ecb50739688cd29f1ac",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "67ae2f8c20260b5d76930787d1400aff62de31e8281976c35d0f9fa3a906e576",
+      "certificate_sha256": "7cede95b0b2316033e3898cf64885d14ed3d9985b3c583023e21060651f91e06",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "6bad5e5cc5879854870ab4194ba2f30316d92323c8c0326ac8f5a738e434428c",
+      "certificate_sha256": "5b0606f05a8c9b4ac1b81effe16646134d24673f4c5bf8d20e7562ef2dbe2a44",
+      "size_bytes": 2400761,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "6f5eea616c1522fe1dd17af99da61552f6e57dec6957c6beb2cc6d4f601640d9",
+      "certificate_sha256": "d6416d2a3c6b55882903959b6bbaae3212480aea7c6c2a1f46e1ba7ddf31e981",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "73876fc9bdb95481ad506d63a3e972a7ecb43f466205d3c7eb68041fc484a03c",
+      "certificate_sha256": "a63f088266b7236c9a71d01df6a12e616639c8f61c6092ab0b5c360f43e738cd",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "772d1fbb3e75d4783ea295e6e7c3872a94969fdf5ae8dd4e3fba733ab9691444",
+      "certificate_sha256": "9988725bad21cbd25eb28dfbae1bcb9deefd5e90bd1e8cead6e6e09a0f228336",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "78295c8b7e30d354213be45a7f4b26c5e1412d731e8c2bd3b221ecd5c687bc71",
+      "certificate_sha256": "9835bd3537f4ee3685e0b3bdb01d7b7f6d22ab610fd9e4d51b7b07f0ade35ba6",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "78a4600060f895807e8ccdc619a94d42cd447ea80c6409fb143e7597110e22e0",
+      "certificate_sha256": "9f2e946b114324a55f814443e77376f12d9a30914cf431c6d155cff2f12c30ce",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "95a22ac06bfe05e040841310c8e6c6601cb34db5b256918b3543900455ad5ac5",
+      "certificate_sha256": "5f71481c842aa8991f20f55e6340d799807fa340ce391e861b0beb4847495be1",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "9d2077a77fba6278487b68520d3c0e696295268afae4e6503e511b12d2d1034c",
+      "certificate_sha256": "235b44baf3713ce3d98341f02377a3f0c29bb946f72cc1bee2dbc826dc7ed363",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "a2bb2e9ac8cdebd0e7595a5e6d49c87a0297585988ec33bacbee9bc8f3627e7a",
+      "certificate_sha256": "77608f823e83848aa5eb29773fcb4ba432fa65e769c9461ed496aba68ef46562",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "aeffd94d017d1aa3901670c0d7236f39cc9c35643e11678fcd8d915b5aac201e",
+      "certificate_sha256": "26fed36d22e662077990f84b7c9e2a743b469cdc2f60775ede5ec876c71b4da9",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "d23c6e2fbaae781dc794db11d47ea44fdcfadcefc2b5a2be7e8031d398808a9d",
+      "certificate_sha256": "d313fc044234e7dae7c64187c73155ce63c53cf157b75d71ec62079ded3ad611",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "d349317c04479c749ad250dcbb2913916cf47e2e57a2f6f4a3e27c1e2793d8e4",
+      "certificate_sha256": "840d569f18e44813c60c9bd7c9d3754d867fcf3a54e6189cc778e2048950585a",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "d50821ed0d351f7607438014949fdc2fb63198a9f8978ca8c70cadf0c2b81196",
+      "certificate_sha256": "68d4f8e9480f4fbcef93bdbf86de0c5c3cc15a96a73b91e0b245f6aa04ad4bfd",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "d62128e745f2cb610ce4abd151442c4a729daca38119abdc5ec690e1735d88d4",
+      "certificate_sha256": "fe5643539f14406f0cb3d82bc5c09bf9b0a14e087142d681d941f6ad01a5f346",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "d655f815d8ce1303f0f0a903d328f71271dddd5491ff7cad7b2e3190721f8238",
+      "certificate_sha256": "a0e5420060df55a722f48c7f28b3d0727f87fd16450e1a7473128e52a4e4a069",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "de735ff65970bc001e111e36512d1560dfb9e7fe4ae470e94314638e69124a2e",
+      "certificate_sha256": "a0714182f4d5b92deceb1dfb81e9ebc27bf2229bef3a2361af19f15227401fcd",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "ea15f359186d8cb2cef540badd2aba9985b5e70079a153fe43305092b2592687",
+      "certificate_sha256": "72078b246acf031447b75445754739c60bc4ec4f61fb4975ba5bfd61e69f1d63",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "f34bb2b75e8cca35d89c4b0ed6f1432b6107949d55940981e2bae5a2a82480f3",
+      "certificate_sha256": "5531425a2bb25eb3aa1bd1f8b0f37bdf7bc3dd1ddb10fba5b784623cca982225",
+      "size_bytes": 2409673,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "f4e3ecd4e6b11d7e63072c0c8ec6dc4eda50a5ec2b844b1774ab66a3181ac1d8",
+      "certificate_sha256": "efbfea2ae63e32b3af5d23da1879d0f362747645eefc35d81df50578a5ec16f4",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    },
+    {
+      "sha256": "fce7c90ca5cdb595864723c822d4ac42b471d9da07ca181ba3c19479ef0e581e",
+      "certificate_sha256": "ead3fae8d52ec34bad81f8d93bd93b65323433f379d85a572d712506ed7f83a2",
+      "size_bytes": 2397861,
+      "source": "github_actions"
+    }
+  ]
+}

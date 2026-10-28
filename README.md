@@ -2,9 +2,9 @@
 
 Katalog unduhan APK Android untuk seluruh proyek. Pilih kategori, aplikasi, lalu versi yang ingin diunduh.
 
-| Kategori | Aplikasi | Katalog versi |
-| --- | --- | --- |
-| Keamanan & privasi | IDA Call Shield | [Semua versi](android/security/ida-call-shield/README.md) |
+| Kategori | Aplikasi | Versi terbaru | Katalog versi |
+| --- | --- | --- | --- |
+| Keamanan & privasi | IDA Call Shield | [v2.1.0 UAT2 — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat2/IDA-Call-Shield-v2.1.0-UAT2.apk) | [19 versi](android/security/ida-call-shield/README.md) |
 
 ## Susunan katalog
 
