@@ -21,3 +21,7 @@ APK disimpan sebagai lampiran GitHub Releases agar dapat diunduh langsung tanpa 
 - File versi lama tidak ditimpa. Jika isi berbeda pada versi yang sama, simpan sebagai varian build yang terpisah dengan checksum masing-masing.
 
 APK UAT/RC merupakan paket pengujian. Gunakan versi terbaru yang ditunjuk pada halaman aplikasi untuk pengujian perangkat.
+
+## Verifikasi katalog
+
+Jalankan `python3 scripts/verify_catalog.py` untuk memeriksa ketersediaan rilis publik, ukuran file dan checksum setiap versi.
