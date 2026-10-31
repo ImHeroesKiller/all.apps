@@ -1,0 +1,15 @@
+{
+  "package": "id.ary.callshield",
+  "version_name": "2.1.1-uat1",
+  "version_code": 31,
+  "sha256": "116e70fb93380f46d1d18f74dddc1d0047662fb420f5a7b1c3a5f3a1d7ed00d5",
+  "size_bytes": 31201860,
+  "source": "github_release",
+  "category": "security",
+  "app": "ida-call-shield",
+  "filename": "IDA-Call-Shield-v2.1.1-UAT1.apk",
+  "tag": "ida-call-shield-v2.1.1-uat1",
+  "channel": "UAT",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.1-uat1/IDA-Call-Shield-v2.1.1-UAT1.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/ida-call-shield-v2.1.1-uat1"
+}
