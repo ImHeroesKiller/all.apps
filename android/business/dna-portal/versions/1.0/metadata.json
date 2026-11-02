@@ -1,0 +1,38 @@
+{
+  "package": "com.example.dnaportal",
+  "version_name": "1.0",
+  "version_code": 1,
+  "sha256": "76c861c8de16b853c2b1e434b26f724aff7504a1937ef2b6232ed2878d2701b1",
+  "certificate_sha256": "10185c9d735f49bf902522c459cb05851ede68c67ea9cf4f0c8e215e94a566d1",
+  "size_bytes": 5725392,
+  "source": "repository_apk_archive",
+  "source_repository": "ImHeroesKiller/empPortal",
+  "source_path": "app/release/app-release.apk",
+  "category": "business",
+  "app": "dna-portal",
+  "filename": "DNA-Portal-v1.0-RELEASE.apk",
+  "tag": "dna-portal-v1.0",
+  "channel": "RELEASE",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/dna-portal-v1.0/DNA-Portal-v1.0-RELEASE.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/dna-portal-v1.0",
+  "variants": [
+    {
+      "package": "com.example.dnaportal",
+      "version_name": "1.0",
+      "version_code": 1,
+      "sha256": "a4ccac8a1b997df379a98b8fee095bd6e144bcd73447dd70ce23b54328a434b8",
+      "certificate_sha256": "10185c9d735f49bf902522c459cb05851ede68c67ea9cf4f0c8e215e94a566d1",
+      "size_bytes": 7405565,
+      "source": "repository_apk_archive",
+      "source_repository": "ImHeroesKiller/empPortal",
+      "source_path": "app/debug/DNA_Portal.apk",
+      "category": "business",
+      "app": "dna-portal",
+      "filename": "DNA-Portal-v1.0-DEBUG.apk",
+      "tag": "dna-portal-v1.0",
+      "channel": "DEBUG",
+      "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/dna-portal-v1.0/DNA-Portal-v1.0-DEBUG.apk",
+      "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/dna-portal-v1.0"
+    }
+  ]
+}

@@ -7,6 +7,9 @@ Katalog unduhan APK Android untuk seluruh proyek. Pilih kategori, aplikasi, lalu
 | Keamanan & privasi | IDA Call Shield | [v2.1.0 UAT2 — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/ida-call-shield-v2.1.0-uat2/IDA-Call-Shield-v2.1.0-UAT2.apk) | [19 versi](android/security/ida-call-shield/README.md) |
 | Asisten AI | IDA Gen3 | [v1.3.3 UAT — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/ida-v1.3.3/IDA-v1.3.3-UAT.apk) | [9 versi](android/ai-assistants/ida/README.md) |
 
+| Bisnis & operasional | ePortal Lite | [v1.0 Release — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/eportal-lite-v1.0/ePortal-Lite-v1.0-RELEASE.apk) | [Katalog](android/business/eportal-lite/README.md) |
+| Bisnis & operasional | DNA Portal | [v1.0 Release — APK](https://github.com/ImHeroesKiller/all.apps/releases/download/dna-portal-v1.0/DNA-Portal-v1.0-RELEASE.apk) | [Release & Debug](android/business/dna-portal/README.md) |
+
 ## Susunan katalog
 
 Setiap aplikasi disusun sebagai `android/<kategori>/<nama-aplikasi>/`. Folder aplikasi memuat daftar versi, metadata paket dan tautan APK di GitHub Releases. Setiap versi memiliki folder dokumentasi sendiri di `versions/<versi>/`.

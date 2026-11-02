@@ -4,7 +4,7 @@
 | --- | --- |
 | [Keamanan & privasi](security/) | Penyaring panggilan, perlindungan privasi dan keamanan perangkat |
 | [Asisten AI](ai-assistants/) | Asisten percakapan dan aplikasi AI |
-| Bisnis (`business`) | HR, payroll, pembayaran dan operasional |
+| [Bisnis](business/) | HR, payroll, pembayaran dan operasional |
 | Produktivitas (`productivity`) | Alat kerja dan kolaborasi |
 | Utilitas (`utilities`) | Peralatan pendukung Android |
 

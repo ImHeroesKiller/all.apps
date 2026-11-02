@@ -1,0 +1,18 @@
+{
+  "package": "com.example.browser",
+  "version_name": "1.0",
+  "version_code": 1,
+  "sha256": "f82a824a860107589afa45f77e9ed038074af3f8557453445c421fbc5e77e1f9",
+  "certificate_sha256": "e417e21fd0868ea13f59863bdd42198f8a5f9c2d80513cb0b821f07b87ff77e3",
+  "size_bytes": 6577212,
+  "source": "repository_apk_archive",
+  "source_repository": "ImHeroesKiller/ePortalLite",
+  "source_path": "app/release/ePortal Lite.apk",
+  "category": "business",
+  "app": "eportal-lite",
+  "filename": "ePortal-Lite-v1.0-RELEASE.apk",
+  "tag": "eportal-lite-v1.0",
+  "channel": "RELEASE",
+  "download_url": "https://github.com/ImHeroesKiller/all.apps/releases/download/eportal-lite-v1.0/ePortal-Lite-v1.0-RELEASE.apk",
+  "release_url": "https://github.com/ImHeroesKiller/all.apps/releases/tag/eportal-lite-v1.0"
+}
