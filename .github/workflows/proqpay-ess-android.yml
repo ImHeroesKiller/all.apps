@@ -1,0 +1,41 @@
+name: Build ProQPay ESS Android
+on:
+  push:
+    branches: [release/proqpay-ess-v1.0.0]
+permissions:
+  contents: write
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ImHeroesKiller/proqpay-ess
+          ref: 819a771e2ea2ffcd668241509d4ce953001aee6e
+          persist-credentials: false
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.11.1'
+      - run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Build signed UAT APK
+        working-directory: android
+        run: |
+          export ESS_KEYSTORE="$RUNNER_TEMP/ess.jks"
+          export ESS_STORE_PASSWORD="$(openssl rand -hex 24)"
+          echo "::add-mask::$ESS_STORE_PASSWORD"
+          keytool -genkeypair -keystore "$ESS_KEYSTORE" -storepass "$ESS_STORE_PASSWORD" -keypass "$ESS_STORE_PASSWORD" -alias ess -dname 'CN=ProQPay ESS UAT' -keyalg RSA -keysize 3072 -validity 3650
+          gradle --no-daemon :app:assembleRelease
+          cp app/build/outputs/apk/release/app-release.apk "$RUNNER_TEMP/ProQPay-ESS-v1.0.0-UAT.apk"
+          cd "$RUNNER_TEMP"
+          "$ANDROID_HOME/build-tools/35.0.0/apksigner" verify --print-certs ProQPay-ESS-v1.0.0-UAT.apk > signing.txt
+          sha256sum ProQPay-ESS-v1.0.0-UAT.apk > SHA256SUMS.txt
+          rm ess.jks
+      - name: Publish APK in All Apps
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create proqpay-ess-v1.0.0-uat --repo "$GITHUB_REPOSITORY" --target main --prerelease --title 'ProQPay ESS v1.0.0 UAT' --notes 'Android client for the production ESS web UI. Package com.proqpay.ess, versionCode 1, Android 8+. This UAT build uses a one-time signing key.' "$RUNNER_TEMP/ProQPay-ESS-v1.0.0-UAT.apk" "$RUNNER_TEMP/SHA256SUMS.txt" "$RUNNER_TEMP/signing.txt"
